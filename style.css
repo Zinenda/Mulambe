@@ -1,0 +1,21 @@
+/* Modificaxoes pessoais dos seguintes frameworks */
+@import url("bootstrap.min.css");
+@import url("freelancer.css");
+html, body {
+	height: 100%;
+	font-size: 100%;
+}
+h1 {
+	font-size: 2.5em;
+	font-style: oblique;
+}
+h2 {font-size: 1.875em;}
+p {font-size: 0.875;}
+#site {
+	font-family: serif;
+	color: #3903;
+}
+header { background-color: #008C9E;}
+#about {
+	background-color: #00B4CC;
+}
